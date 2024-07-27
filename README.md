@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name's Wali Chizarum, "zarvin"<br>18, Blockchain Developer <br> I explain smart contract terms on [![X account](https://x.com/0xZarvin)]<br>Tools: Git, Docker, VS Code, Hardhat
+My name's Wali Chizarum, "zarvin"<br>18, Blockchain Developer <br> I explain smart contract terms on my [![X account]()(https://x.com/0xZarvin)]<br>Tools: Git, Docker, VS Code, Hardhat
 
 
 ## 🌐 Socials:
