@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name's Wali Chizarum, "zarvin"<br>I'm a blockchain developer with a passion for building <br>Technologies & Tools;<br>Blockchain Development: Solidity, Rust<br>Databases: MySQL, PostgreSQL<br>Other Languages: Python, SQL<br>Tools: Git, Docker, VS Code, Hardhat
+My name's Wali Chizarum, "zarvin"<br>18, Blockchain Developer <br> I explain smart contract terms on [![X account](https://x.com/0xZarvin)]<br>Tools: Git, Docker, VS Code, Hardhat
 
 
 ## 🌐 Socials:
