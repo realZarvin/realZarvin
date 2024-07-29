@@ -22,7 +22,7 @@
 
 
 
-You can view my embedded Spotify recent track [here](https://your_username.github.io/your_repository_name/).
+You can view my embedded Spotify recent track [here](https://realZarvin.github.io/spotify/).
 
 
 ---
