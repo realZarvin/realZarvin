@@ -7,6 +7,8 @@
 # Reach me:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@0xzarvin) [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue)](https://t.me/realzarvin) [![Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord)](https://discord.com/invite/7ZSPcb8b)
 
+
+
 [![](https://github-readme-activity-graph.vercel.app/graph?username=realZarvin&theme=react-dark)](https://github.com/realZarvin/github-readme-activity-graph)
 
 
@@ -16,7 +18,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=realZarvin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=realZarvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 
 ---
