@@ -8,15 +8,14 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@0xzarvin) [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue)](https://t.me/realzarvin) [![Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord)](https://discord.com/invite/7ZSPcb8b)
 
 
+![Animated Person Sitting](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952dqd2decpho1x8hf45voetqqpor1eiviyw5ow9i03&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=realZarvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=realZarvin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=realZarvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=realZarvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=realZarvin&theme=react-dark)](https://github.com/realZarvin/github-readme-activity-graph)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
