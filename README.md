@@ -24,15 +24,14 @@ Currently, I am exploring advanced Blockchain Integration strategies, aiming to 
 Feel free to connect with me to discuss blockchain technologies, smart contracts, or potential collaboration opportunities.
 
 # Reach me:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@0xzarvin) [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue)](https://t.me/realzarvin) [![Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord)](https://discord.com/invite/7ZSPcb8b)
+[![ ](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@0xzarvin) [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue)](https://t.me/realzarvin) [![Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord)](https://discord.com/invite/7ZSPcb8b)
 
 
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=realZarvin&theme=react-dark)](https://github.com/realZarvin/github-readme-activity-graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=realZarvin&theme=react-dark)
 
 
 ### Professional Experience
-
 Although I have not yet worked on a project as a developer, I am eager to gain practical experience. I am open to freelance gigs, part-time positions, internships, and eventually long-term opportunities. As a fast learner, I am dedicated to quickly adapting to new challenges and technologies. I am also willing to offer competitive pricing for my work to build my portfolio and contribute effectively to your projects. I assure you, I can get your work done in recored-breaking time!
 
 
