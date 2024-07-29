@@ -1,8 +1,9 @@
-# 💫 About Me:
-My name's Wali Chizarum, "zarvin"<br>18, Blockchain Developer <br> I explain smart contract terms on my [![X account]()(https://x.com/0xZarvin)]<br>Tools: Git, Docker, VS Code, Hardhat
+# Hey there, I'm Zarvin...
 
 
-## 🌐 Socials:
+[![](https://visitcount.itsvg.in/api?id=realZarvin&icon=3&color=12)](https://visitcount.itsvg.in)
+
+# Reach me:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@zarvinn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26540500) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@0xzarvin) 
 
 # 💻 Tech Stack:
@@ -16,6 +17,5 @@ My name's Wali Chizarum, "zarvin"<br>18, Blockchain Developer <br> I explain sma
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=realZarvin&icon=3&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
