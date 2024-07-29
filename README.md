@@ -5,7 +5,8 @@
 [![](https://visitcount.itsvg.in/api?id=realZarvin&icon=3&color=12)](https://visitcount.itsvg.in) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # Reach me:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@zarvinn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26540500) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@0xzarvin) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@zarvinn)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@0xzarvin) [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue)](https://t.me/realzarvin)
+
 
 
 # 📊 GitHub Stats:
