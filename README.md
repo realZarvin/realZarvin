@@ -36,7 +36,10 @@ Although I have not yet worked on a project as a developer, I am eager to gain p
 
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=realZarvin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=realZarvin&theme=dark&hide_border=false)
+
+To demonstrate my commitment and capabilities, I am willing to start on projects for free to prove my proficiency. If I don't meet your expectations, you can let me go without any obligation. My goal is to build trust through exceptional performance and contribute effectively to your team's success.
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=realZarvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
