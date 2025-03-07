@@ -1,4 +1,4 @@
-# Hey there, I'm zarvin0x...
+# zarvin0x | co-founder, Midas Labs
 ![Untitled11_20240729115735](https://github.com/user-attachments/assets/e927dfa7-b582-45c8-912b-34f955984355)
 
 
