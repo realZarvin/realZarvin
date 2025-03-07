@@ -7,21 +7,18 @@
 
 ## About Me
 
-I am a Blockchain Developer with a deep passion for smart contracts and decentralized technologies. My expertise spans across both Solana and Ethereum ecosystems, where I specialize in developing and deploying smart contracts. Additionally, I have extensive experience with Non-Fungible Tokens (NFTs), utilizing them to create unique digital assets and experiences.
-
-Currently, I am exploring advanced Blockchain Integration strategies, aiming to enhance interoperability and efficiency across different blockchain platforms. My work focuses on leveraging cutting-edge technologies to drive innovation and solve complex challenges within the blockchain space.
+I’m a co-founder of Midas Labs, an onchain research & development lab focused on building cutting-edge Solana trading tools. We take existing trading strategies, optimize them for efficiency, and develop new methods to gain a competitive edge in the rapidly evolving onchain landscape. Our core philosophy is simple: tools first, protocols later—we build practical, high-performance solutions before scaling them into full-fledged systems.
 
 
 ![Animated Person Sitting](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952dqd2decpho1x8hf45voetqqpor1eiviyw5ow9i03&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
+# What We’re Building
 
-### Skills & Expertise
-- **Blockchain Development**: Proficient in Solidity and Rust for Ethereum and Solana development.
-- **Smart Contracts**: Design, deploy, and manage smart contracts to ensure security and functionality.
-- **NFTs**: Creation and management of NFTs, including smart contract integration and marketplace deployment.
-- **Blockchain Integration**: Exploring solutions to enhance cross-chain communication and data interoperability.
+ Midas Bot – A fully automated Solana trading bot for Discord, designed for memecoin traders, communities, and Solana enthusiasts. With real-time wallet tracking, copytrading, and instant trading execution, Midas Bot helps traders act on market opportunities faster than ever.
 
-Feel free to connect with me to discuss blockchain technologies, smart contracts, or potential collaboration opportunities.
+🔹 OTC Marketplace – A decentralized over-the-counter (OTC) trading platform within Discord, allowing users to trade crypto attributes securely and efficiently, bypassing the limitations of traditional exchanges.
+
+🎮 Gamified Trading Experience – Trading shouldn’t just be about numbers on a screen. We’re developing a gamification system that rewards users for smart trading decisions, enhances engagement, and creates a structured approach to risk management. Imagine unlocking new tools, increasing buying power, and gaining exclusive advantages based on your performance.
 
 # Reach me:
 [![ ](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@0xzarvin) [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue)](https://t.me/realzarvin) [![Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord)](https://discord.com/invite/7ZSPcb8b)
@@ -30,15 +27,21 @@ Feel free to connect with me to discuss blockchain technologies, smart contracts
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=realZarvin&theme=react-dark)
 
+# Our Mission
 
-### Professional Experience
-Although I have not yet worked on a project as a developer, I am eager to gain practical experience. I am open to freelance gigs, part-time positions, internships, and eventually long-term opportunities. As a fast learner, I am dedicated to quickly adapting to new challenges and technologies. I am also willing to offer competitive pricing for my work to build my portfolio and contribute effectively to your projects. I assure you, I can get your work done in recored-breaking time!
-
+At Midas Labs, we’re redefining onchain edge by bridging the gap between theory and execution. We focus on:
+✅ Optimizing existing onchain edges – Reducing inefficiencies and improving execution strategies
+✅ Creating new, innovative trading tools – Developing advanced, automated solutions for traders
+✅ Empowering onchain traders – Providing research-driven insights and tools that maximize profitability
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=realZarvin&theme=dark&hide_border=false)
 
-To demonstrate my commitment and capabilities, I am willing to start on projects for free to prove my proficiency. If I don't meet your expectations, you can let me go without any obligation. My goal is to build trust through exceptional performance and contribute effectively to your team's success.
+# Beyond Trading
+
+Midas Labs isn’t just about building tools—it’s about reshaping how traders interact with the market. By integrating automation, research, and gamification, we’re crafting an ecosystem where traders can improve their skills, leverage cutting-edge technology, and execute strategies with unmatched precision.
+
+We’re here to experiment, iterate, and constantly push the boundaries of what’s possible in onchain trading. If you’re serious about finding actual, factual, and mathematical edge in crypto, we’re building for you.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=realZarvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
