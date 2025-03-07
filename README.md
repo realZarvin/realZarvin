@@ -20,9 +20,6 @@ I’m a co-founder of Midas Labs, an onchain research & development lab focused 
 
 🎮 Gamified Trading Experience – Trading shouldn’t just be about numbers on a screen. We’re developing a gamification system that rewards users for smart trading decisions, enhances engagement, and creates a structured approach to risk management. Imagine unlocking new tools, increasing buying power, and gaining exclusive advantages based on your performance.
 
-# Reach me:
-[![ ](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@0xzarvin) [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue)](https://t.me/realzarvin) [![Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord)](https://discord.com/invite/7ZSPcb8b)
-
 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=realZarvin&theme=react-dark)
