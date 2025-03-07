@@ -6,13 +6,16 @@
 
 
 ## About Me
+🔹 Onchain Researcher | Trader | Builder
 
-I’m a co-founder of Midas Labs, an onchain research & development lab focused on building cutting-edge Solana trading tools. We take existing trading strategies, optimize them for efficiency, and develop new methods to gain a competitive edge in the rapidly evolving onchain landscape. Our core philosophy is simple: tools first, protocols later—we build practical, high-performance solutions before scaling them into full-fledged systems.
+I specialize in onchain trading, research, and automation, constantly exploring new ways to refine trading strategies and optimize execution on Solana. My approach is rooted in data, efficiency, and innovation—whether it's automating trades, tracking wallet activity, or developing tools that give traders an edge.
+
+As the founder of Midas Labs, my focus is on redefining onchain edge by experimenting with new methodologies, minimizing inefficiencies, and creating advanced trading solutions. I believe in building tools first, protocols later—prioritizing real, practical advantages before scaling into broader systems..
 
 
 ![Animated Person Sitting](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952dqd2decpho1x8hf45voetqqpor1eiviyw5ow9i03&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
-# What We’re Building
+# What We’re Building at Midas Bot
 
  Midas Bot – A fully automated Solana trading bot for Discord, designed for memecoin traders, communities, and Solana enthusiasts. With real-time wallet tracking, copytrading, and instant trading execution, Midas Bot helps traders act on market opportunities faster than ever.
 
@@ -42,6 +45,9 @@ We’re here to experiment, iterate, and constantly push the boundaries of what�
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=realZarvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# My Mindset
+
+I see crypto as more than just an asset class—it’s a constantly evolving competitive landscape where efficiency, automation, and adaptability determine success. Whether I’m trading memecoins, developing automation tools, or researching onchain activity, my goal is to stay ahead of the curve and help others do the same.
 
 Stay Hungry, Stay Foolish — Steve Jobs
 ---
