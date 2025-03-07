@@ -9,8 +9,8 @@
 
 I thrive at the intersection of trading, automation, and research, constantly pushing the limits of what's possible in onchain markets. My approach is built on efficiency, data, and execution, always looking for ways to refine strategies, minimize downside, and maximize edge.
 
+![storm apartment GIF](https://github.com/user-attachments/assets/f735193b-1c94-412d-b3cf-f23628265446)
 
-![Animated Person Sitting](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952dqd2decpho1x8hf45voetqqpor1eiviyw5ow9i03&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 As a memecoin trader, I’ve learned to detach from the noise and gamify the process—turning what many see as chaos into a structured, strategic experience. I believe that in markets driven by speed and sentiment, the real advantage comes from objectivity, adaptability, and execution.
 
